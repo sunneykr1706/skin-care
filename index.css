@@ -1,0 +1,159 @@
+.rectangle{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 88.67%;
+
+background: #FFFFFF;
+}
+.nav-bar
+{
+    position: absolute;
+width: 28.33px;
+height: 0px;
+left: 125px;
+top: 12px;
+
+border: 2px solid #414042;
+}
+.nav-bar2
+{
+    position: absolute;
+    width: 28.33px;
+    height: 0px;
+    left: 125px;
+    top: 19.95px;
+    
+    border: 2px solid #414042;
+}
+.nav-bar3
+{
+    position: absolute;
+    width: 28.33px;
+    height: 0px;
+    left: 125px;
+    top: 27.89px;
+    
+    border: 2px solid #414042;
+}
+.circle-image
+{
+    position: absolute;
+left: 79.31%;
+right: 19.52%;
+top: 8.89%;
+bottom: 95.18%;
+
+
+
+}
+.line-image{
+    position: absolute;
+left: 80.25%;
+right: 19.21%;
+top: 28.42%;
+bottom: 94.55%;
+
+transform: rotate(-6.53deg);
+}
+.profile-1-image{
+    position: absolute;
+left: 85.1%;
+right: 14.13%;
+top: 6.89%;
+bottom: 96.03%;
+
+}
+.profile-2-image{
+    position: absolute;
+left: 84.81%;
+right: 13.84%;
+top: 20.97%;
+bottom: 94.5%;
+}
+.cart-image
+{
+    position: absolute;
+left: 89.99%;
+right: 8.65%;
+top: 6.89%;
+bottom: 94.52%;
+}
+.header-image
+{
+  
+position: absolute;
+left: 43.26%;
+right: 43.26%;
+top: -7.67%;
+bottom: 93%;
+
+background: url(.png);
+}
+.main-frame{
+    
+position: absolute;
+width: 959px;
+height: 632px;
+left: 240px;
+top: 187px;
+
+background: #FFEDEB;
+box-shadow: 0.5px 0.5px 4px rgba(120, 120, 120, 0.2);
+    
+}
+.image-form{
+    position: absolute;
+left: 25.31%;
+right: 20.38%;
+top: 12.56%;
+bottom: 28.56%;
+
+mix-blend-mode: multiply;
+}
+.cross-1-image {
+    position: absolute;
+    left: 122.14%;
+    right: 19.86%;
+    top: -11.89%;
+    bottom: 73.01%;
+    transform: matrix( 0, -0, 0.71, 265, 0);
+}
+.cross-2-image {
+    position: absolute;
+    left:  121.89%;
+    right: 24.31%;
+    top: -11.89%;
+    bottom: 75.89%;
+    transform: matrix(, 0.73, -0.68, 0.71, 265, 0);
+}
+
+}
+.text-form{
+    position: absolute;
+left: 30.28%;
+right: 28.75%;
+top: 70.78%;
+bottom: 15.22%;
+
+font-family: DIN Pro;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 34px;
+/* or 142% */
+
+text-align: center;
+
+color: #414042;
+}
+.rectangle{
+    position: absolute;
+left: 16.67%;
+right: 16.74%;
+top: 89.78%;
+bottom: 9%;
+
+background: #FFFFFF;
+}

@@ -1,0 +1,76 @@
+.main-frame
+{
+    position: absolute;
+width: 959px;
+height: 632px;
+left: 240px;
+top: 187px;
+
+background: #FFEDEB;
+box-shadow: 0.5px 0.5px 4px rgba(120, 120, 120, 0.2);
+}
+.rectangle{
+    position: absolute;
+    left: 17.67%;
+    right: 16.74%;
+    top: 203.78%;
+    bottom: 9%;
+    background: #FFFFFF;
+}
+.Rectangle-592
+{
+    position: absolute;
+    left: 5.25%;
+    right: 52.71%;
+    top: 12.44%;
+    bottom: 9%;
+}
+.rectangle-1{
+    position: absolute;
+    left: 17.67%;
+    right: 73.06%;
+    top: 202.78%;
+    bottom: 9%;
+    background: #F7D0CE;
+}
+.first-text{
+    position: absolute;
+    left: 63.12%;
+    right: 31.25%;
+    top: 43.22%;
+    bottom: 54.33%;
+    
+    font-family: DIN Pro;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    
+    color: #414042;
+}
+.Rectangle-591{
+    position: absolute;
+left: 52.54%;
+right: 26.74%;
+top: 47.89%;
+bottom: 48.11%;
+
+border: 1px solid #414042;
+box-sizing: border-box;
+}
+.Youare
+{
+    position: absolute;
+    left: 68.06%;
+    right: 31.32%;
+    top: 64.44%;
+    bottom: 40.11%;
+    font-family: DIN Pro;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #414042;
+}
